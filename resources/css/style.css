@@ -21,8 +21,8 @@ h3 {
 }
 
 h5 {
-  color: Aquamarine;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 42px;
 }
 
 div {
@@ -31,4 +31,14 @@ div {
 
 .camp {
   padding-top: 20px;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
